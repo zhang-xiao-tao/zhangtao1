@@ -4,6 +4,7 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/git-test2/pom.xml" />
+        <option value="$PROJECT_DIR$/../git5demo/pom.xml" />
       </list>
     </option>
   </component>

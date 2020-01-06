@@ -11,6 +11,7 @@
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="git-test2" target="1.5" />
+      <module name="git5-demo" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>
